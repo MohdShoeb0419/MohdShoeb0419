@@ -1,4 +1,4 @@
-# Hey, I'm Shoeb
+# Hey, I'm Mohd Shoeb
 
 Full-stack developer who builds across the entire stack. Mobile, web, backend, infra, and AI. Based in Hyderabad.
 
